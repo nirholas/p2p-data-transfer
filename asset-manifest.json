@@ -1,0 +1,12 @@
+{
+  "datas": {
+    "main.js": "/p2p-data-transfer/static/js/main.735b301f.js",
+    "static/js/787.e48601c9.chunk.js": "/p2p-data-transfer/static/js/787.e48601c9.chunk.js",
+    "index.html": "/p2p-data-transfer/index.html",
+    "main.735b301f.js.map": "/p2p-data-transfer/static/js/main.735b301f.js.map",
+    "787.e48601c9.chunk.js.map": "/p2p-data-transfer/static/js/787.e48601c9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.735b301f.js"
+  ]
+}

@@ -4,4 +4,4 @@ A user-friendly P2P Data sharing tool for browsers, using TypeScript, React.js, 
 
 See at: https://nirholas.github.io/p2p-data-transfer
 
-Short version: We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you.
+Short version: We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. Please read this section carefully; it limits our obligations to you. 
